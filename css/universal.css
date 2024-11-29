@@ -1,0 +1,12 @@
+.homeNavbar{
+    height: 20vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.593);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeNavbar h1{
+    color: aliceblue;
+}
