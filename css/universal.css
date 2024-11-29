@@ -1,0 +1,12 @@
+.PromotionsNavbar{
+    height: 20vh;
+    width: 100vw;
+    background-color: rgba(206, 17, 17, 0.593);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.PromotionsNavbar h1{
+    color: aliceblue;
+}
