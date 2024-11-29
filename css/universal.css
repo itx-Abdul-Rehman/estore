@@ -1,0 +1,14 @@
+.ContactUsNavbar{
+    height: 30vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.593);
+    border: 2px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ContactUsNavbar h1{
+    color: rgb(21, 106, 180);
+}
