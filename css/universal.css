@@ -1,9 +1,6 @@
-*{
-    padding: 0;
-    margin: 0;
-}
 
-.productDetailNavbar{
+
+.productsNavbar{
     height: 20vh;
     width: 100vw;
     background-color: rgba(0, 0, 0, 0.593);
@@ -12,6 +9,7 @@
     align-items: center;
 }
 
-.productDetailNavbar h1{
-    color: aliceblue;
+
+.productsNavbar h1{
+    color: aliceblue;
 }
